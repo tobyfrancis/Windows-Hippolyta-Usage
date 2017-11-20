@@ -1,0 +1,5 @@
+Host hippolyta
+	HostName hippolyta.materials.cmu.edu
+	User Username
+	Port HippolytaPort
+	IdentityFile ~\.ssh\id_rsa.pub
